@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1396552306 source:d:\programozás\2014\gyakorlatok\gyak08\polinom\polinom.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"polinom.h"
+
+1396552272 d:\programozás\2014\gyakorlatok\gyak08\polinom\polinom.h
+
+1396552033 source:d:\programozás\2014\gyakorlatok\gyak08\polinom\beolvas.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"beolvas.h"
+
+1396551916 d:\programozás\2014\gyakorlatok\gyak08\polinom\beolvas.h
+	<vector>
+	<string>
+	"polinom.h"
+
+1396549337 source:d:\programozás\2014\gyakorlatok\gyak08\polinom\main.cpp
+	<iostream>
+	<vector>
+	"polinom.h"
+	"beolvas.h"
+
+1396552936 source:d:\programozás\2015\gyakorlatok\gyak08\polinom\kesz\polinom\main.cpp
+	<iostream>
+	<vector>
+	"polinom.h"
+	"beolvas.h"
+
+1428499069 d:\programozás\2015\gyakorlatok\gyak08\polinom\kesz\polinom\polinom.h
+
+1428498115 d:\programozás\2015\gyakorlatok\gyak08\polinom\kesz\polinom\beolvas.h
+	<vector>
+	<string>
+	"polinom.h"
+
+1428499446 source:d:\programozás\2015\gyakorlatok\gyak08\polinom\kesz\polinom\polinom.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"polinom.h"
+
+1428498115 source:d:\programozás\2015\gyakorlatok\gyak08\polinom\kesz\polinom\beolvas.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"beolvas.h"
+
+1428517694 source:d:\programozás\2017\gyakorlatok\gyak09\polinom\kesz\polinom\polinom.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"polinom.h"
+
+1493241657 d:\programozás\2017\gyakorlatok\gyak09\polinom\kesz\polinom\polinom.h
+
+1428498115 source:d:\programozás\2017\gyakorlatok\gyak09\polinom\kesz\polinom\beolvas.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"beolvas.h"
+
+1428498115 d:\programozás\2017\gyakorlatok\gyak09\polinom\kesz\polinom\beolvas.h
+	<vector>
+	<string>
+	"polinom.h"
+
+1493239558 source:d:\programozás\2017\gyakorlatok\gyak09\polinom\kesz\polinom\main.cpp
+	<iostream>
+	<vector>
+	"polinom.h"
+	"beolvas.h"
+

@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1491421842 source:c:\users\buriansandor\desktop\gyak7\gyak7\main.cpp
+	<iostream>
+	<vector>
+	"pont.h"
+	"kor.h"
+	"feltolt.h"
+
+1491419866 c:\users\buriansandor\desktop\gyak7\gyak7\pont.h
+	<iostream>
+
+1491421028 source:c:\users\buriansandor\desktop\gyak7\gyak7\kor.cpp
+	"kor.h"
+	<cmath>
+
+1491420690 c:\users\buriansandor\desktop\gyak7\gyak7\kor.h
+	"pont.h"
+
+1491421816 source:c:\users\buriansandor\desktop\gyak7\gyak7\feltolt.cpp
+	"feltolt.h"
+	<fstream>
+	<iostream>
+
+1491421681 c:\users\buriansandor\desktop\gyak7\gyak7\feltolt.h
+	<vector>
+	<string>
+	"pont.h"
+	"kor.h"
+
+1491421816 source:c:\users\sándor\documents\programozas\gyakok\gyak7\gyak7\feltolt.cpp
+	"feltolt.h"
+	<fstream>
+	<iostream>
+
+1491421681 c:\users\sándor\documents\programozas\gyakok\gyak7\gyak7\feltolt.h
+	<vector>
+	<string>
+	"pont.h"
+	"kor.h"
+
+1491419866 c:\users\sándor\documents\programozas\gyakok\gyak7\gyak7\pont.h
+	<iostream>
+
+1491420690 c:\users\sándor\documents\programozas\gyakok\gyak7\gyak7\kor.h
+	"pont.h"
+
+1491421028 source:c:\users\sándor\documents\programozas\gyakok\gyak7\gyak7\kor.cpp
+	"kor.h"
+	<cmath>
+

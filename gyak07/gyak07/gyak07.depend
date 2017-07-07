@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1459979606 source:d:\programozás\2016\gyakorlatok\gyak07\gyak07\main.cpp
+	<iostream>
+	<vector>
+	"Pont.h"
+	"Kor.h"
+
+1459979304 d:\programozás\2016\gyakorlatok\gyak07\gyak07\pont.h
+	<iostream>
+
+1459979501 d:\programozás\2016\gyakorlatok\gyak07\gyak07\kor.h
+	"Pont.h"
+
+1459979501 source:d:\programozás\2016\gyakorlatok\gyak07\gyak07\kor.cpp
+	<iostream>
+	<cmath>
+	"Kor.h"
+
+1491401217 source:d:\programozás\2017\gyakorlatok\gyak07\gyak07\main.cpp
+	<iostream>
+	<vector>
+	"Pont.h"
+	"Kor.h"
+	"feltolt.h"
+
+1491399044 d:\programozás\2017\gyakorlatok\gyak07\gyak07\pont.h
+	<iostream>
+
+1491401382 d:\programozás\2017\gyakorlatok\gyak07\gyak07\kor.h
+	"Pont.h"
+
+1491400830 source:d:\programozás\2017\gyakorlatok\gyak07\gyak07\kor.cpp
+	<iostream>
+	<cmath>
+	"Kor.h"
+
+1491399044 source:d:\programozás\2017\gyakorlatok\gyak07\gyak07\feltolt.cpp
+	<iostream>
+	<fstream>
+	"feltolt.h"
+
+1491398806 d:\programozás\2017\gyakorlatok\gyak07\gyak07\feltolt.h
+	<vector>
+	<string>
+	"Pont.h"
+	"Kor.h"
+
